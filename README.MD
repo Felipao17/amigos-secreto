@@ -3,11 +3,11 @@
 <em> # AMIGO SECRETO </em>
 
 
-<h1>Funcionalidad</h1>
+<h1>Lenguaje</h1>
 <ul>agregar amigos para el sorteo</ul>
+<h1>Funcionalidad</h1>
 <ul>Sortear amigos</ul>
 
-<h1>Lenguaje</h1>
 <ul>JavaScript</ul>
 
 
