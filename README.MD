@@ -1,10 +1,10 @@
-<h1>Juego Amigo Secreto</h1>
-<p>El juego consiste en agregar amigos y sortearlos a ver que amigo te toca</p>
+<h1>El Juego del Amigo Secreto</h1>
+<p>Este juego consiste en agregar amigos y sortearlos para ver que amigo te toca en el sorteo</p>
 <em> # AMIGO SECRETO </em>
 
 
-<h1>Funcionalidades</h1>
-<ul>Agregar amigos</ul>
+<h1>Funcionalidad</h1>
+<ul>agregar amigos para el sorteo</ul>
 <ul>Sortear amigos</ul>
 
 <h1>Lenguaje</h1>
@@ -17,4 +17,4 @@
 
 
 
-https://github.com/user-attachments/assets/8263efd9-b401-4a33-b86b-8fdfbd342bdf
+
